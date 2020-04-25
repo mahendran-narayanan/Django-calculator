@@ -6,6 +6,6 @@ Then run this code
 
 This is the result:
 
-[Normal Calculator](images/home.png)
-[Word Calculator](images/wordcalci.png)
+![Normal Calculator](images/home.png)
+![Word Calculator](images/wordcalci.png)
 
